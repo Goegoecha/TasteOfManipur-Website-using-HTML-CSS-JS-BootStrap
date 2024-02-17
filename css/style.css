@@ -94,7 +94,7 @@ h4 {
 }
 
 h5 {
-  color: var(--secondary-color);
+  color: black;
   text-transform: capitalize;
   font-family: var(--secondry-font);
   font-size: 1rem;
